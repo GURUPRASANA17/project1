@@ -1,0 +1,6 @@
+{
+  "name": "KisanPulse — Smart Agriculture Disease Prediction",
+  "description": "Multilingual AI crop disease diagnosis, micro-climate weather risk advisories, and KVK expert support for Indian smallholder farmers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
